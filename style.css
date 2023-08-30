@@ -1,0 +1,35 @@
+body{
+    background-image: url('https://png.pngtree.com/background/20230618/original/pngtree-3d-dice-toss-picture-image_3758930.jpg');
+}
+img{
+    width: 150px;
+    margin-top: 50px;
+   background-color: lightcoral;
+   border-radius: 20px 30px 20px 30px;
+}
+div{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: aqua;
+    margin-bottom: 60px;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: brown;
+    margin-top: 30px;
+}
+button{
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: 30px;
+    padding: 10px 20px 10px 20px ;
+    background-color: chocolate;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: coral;
+}
